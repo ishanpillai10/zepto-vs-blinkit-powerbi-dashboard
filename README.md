@@ -1,67 +1,73 @@
-# 🛒 Zepto vs Blinkit – Power BI Comparison Dashboard
+# 🛒 Grocery Store War: Zepto vs Blinkit (Power BI Dashboard)
 
 ## 📌 Project Overview
-This Power BI project provides a comparative analysis of two leading quick-commerce platforms — **Zepto** and **Blinkit**.  
-The dashboard helps understand differences in pricing, delivery performance, product availability, and customer behavior through interactive visualizations.
+This Power BI dashboard presents a detailed comparison between two leading quick-commerce platforms — **Zepto** and **Blinkit**.  
+The analysis focuses on **sales performance, delivery efficiency, customer ratings, payment preferences, category trends, and city-wise sales**.
 
 ---
 
-## 🎯 Objectives
-- Compare Zepto and Blinkit on key business metrics
-- Identify pricing and delivery performance trends
-- Analyze category-wise product availability
-- Create an interactive decision-support dashboard
+## 🎯 Business Objectives
+- Compare overall sales performance of Zepto and Blinkit
+- Analyze average delivery time and customer satisfaction
+- Understand payment mode preferences
+- Identify top-performing categories and cities
+- Track monthly and quarterly sales trends
 
 ---
 
-## 🧾 Dataset Information
-- Source: Public / Sample / Self-collected dataset
-- Format: CSV
-- Platforms: Zepto & Blinkit
-- Data includes:
-  - Product categories
-  - Prices
-  - Delivery time
-  - Availability status
-  - Ratings (if applicable)
+## 📊 Key KPIs (From Dashboard)
+- **Total Sales:** 664K  
+- **Average Delivery Time:** 15.49 minutes  
+- **Average Customer Rating:** 2.99  
 
 ---
 
-## 📊 Dashboard Features
-- Platform-wise KPI comparison
-- Average price comparison by category
-- Delivery time analysis
-- Category-wise product distribution
-- Interactive slicers for platform & category
-- Dynamic insights using DAX measures
+## 📈 Dashboard Insights
+
+  🔹 Sales Trend (Monthly)
+- Peak sales observed in **June (107K)** and **July (89K)**
+- Sales dip towards year-end, lowest in **October & November (25K)**
+
+  🔹 Category Performance
+- **Snacks, Milk, and Paneer** are top-selling categories
+- **Atta and Butter** show relatively lower sales contribution
+
+  🔹 City-wise Sales
+- **Chennai (150K)** leads in sales
+- Followed by **Mumbai (141K)** and **Bangalore (129K)**
+- **Delhi (116K)** records the lowest among listed cities
+
+  🔹 Payment Mode Analysis
+- **UPI:** 35.9% (Most preferred)
+- **Card:** 32.81%
+- **Cash on Delivery (COD):** 31.29%
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧩 Filters & Interactivity
+- Brand selection: Zepto / Blinkit
+- Quarter-wise filtering (Q1–Q4)
+- Category-wise slicers
+- Payment mode segmentation
+
+---
+
+## 🛠 Tools & Technologies Used
 - Power BI Desktop
 - Power Query (Data Cleaning & Transformation)
-- DAX (Calculated Measures)
+- DAX (KPI Calculations)
 - Microsoft Excel
 
 ---
 
-
 ## 🚀 How to Use
 1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Refresh data if required
-4. Use slicers to interact with the dashboard
-
----
-
-## 📈 Key Insights
-- Price differences vary significantly across categories
-- Delivery time consistency differs between platforms
-- Certain categories have higher availability on one platform
+2. Open it in Power BI Desktop
+3. Interact using filters and slicers to explore insights
 
 ---
 
 ## 📬 Contact
-**Ishan Pillai**  
+  Ishan Pillai
 GitHub: https://github.com/ishanpillai10
-LinkedIn: www.linkedin.com/in/ishan-pillai-4749032b4
+LinkedIn: https://www.linkedin.com/in/www.linkedin.com/in/ishan-pillai-4749032b4
